@@ -45,7 +45,8 @@ const Contact: React.FC = () => {
                 rel={method.label !== 'Email' ? 'noopener noreferrer' : undefined}
                 className="bg-gradient-to-br from-blue-500/10 to-purple-500/10 p-8 rounded-2xl border border-gray-700 hover:border-blue-500/50 transition-all duration-300 hover:scale-105 group"
               >
-                <method.icon className="text-blue-400 mb-4 mx-auto group-hover:scale-110 transition-transform" size={48} />
+                <method.icon className="text-blue-400 mb-4 mx-auto group-hover:scale-110 transition-transform" width={48}
+  height={48} />
                 <h3 className="text-xl font-semibold mb-2">{method.label}</h3>
                 <p className="text-gray-400">
                   {method.label === 'Email' 
