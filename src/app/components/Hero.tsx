@@ -74,7 +74,7 @@ const Hero: React.FC<HeroProps> = ({ scrollToSection }) => {
               rel={link.label !== 'Email' ? 'noopener noreferrer' : undefined}
               className="p-3 bg-gray-800 rounded-full hover:bg-gray-700 transition-colors"
             >
-              <link.icon size={24} />
+              <link.icon width={24} height={24} />
             </a>
           ))}
         </div>
