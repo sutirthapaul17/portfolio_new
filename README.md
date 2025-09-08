@@ -1,7 +1,7 @@
 My Personal Portfolio
 Welcome to the repository for my personal portfolio website. This project showcases my skills, projects, and professional background using a modern and responsive design. It's built with Next.js and TypeScript to ensure a fast, scalable, and type-safe development experience.
 
-✨ Live Demo (<-- Add your deployed link here!)
+✨ Live Demo ([See My portfolio](https://portfolio-phi-bice-75.vercel.app/))
 A placeholder for a screenshot of the portfolio homepage.
 
 🚀 Features
