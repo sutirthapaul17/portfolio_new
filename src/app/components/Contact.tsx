@@ -26,14 +26,14 @@ const Contact: React.FC = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold mb-4 bg-gradient-to-r from-blue-400 to-purple-500 bg-clip-text text-transparent">
-            Let's Connect
+            Let&apos;s Connect
           </h2>
           <div className="w-24 h-1 bg-gradient-to-r from-blue-400 to-purple-500 mx-auto"></div>
         </div>
 
         <div className="max-w-4xl mx-auto text-center">
           <p className="text-xl text-gray-300 mb-12 leading-relaxed">
-            I'm always excited to discuss new opportunities, innovative projects, or collaborate on cutting-edge blockchain and AI solutions. Let's build something amazing together!
+            I&apos;m always excited to discuss new opportunities, innovative projects, or collaborate on cutting-edge blockchain and AI solutions. Let&apos;s build something amazing together!
           </p>
 
           <div className="grid md:grid-cols-3 gap-8">

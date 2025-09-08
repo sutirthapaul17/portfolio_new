@@ -101,7 +101,7 @@ const About: React.FC = () => {
             <div className="bg-gradient-to-br from-blue-500/10 to-purple-500/10 p-8 rounded-2xl border border-gray-700">
               <User className="text-blue-400 mb-4" size={48} />
               <p className="text-lg text-gray-300 leading-relaxed mb-6">
-                I'm Sutirtha Paul, a passionate <span className="text-blue-400 font-semibold">Web and Blockchain Developer</span> with experience in building modern, scalable, and user-friendly applications. I enjoy working with <span className="text-purple-400 font-semibold">React, Solidity, and smart contract development</span>, and I'm continuously exploring new technologies like AI and Web3 to create impactful digital solutions.
+                I&apos;m Sutirtha Paul, a passionate <span className="text-blue-400 font-semibold">Web and Blockchain Developer</span> with experience in building modern, scalable, and user-friendly applications. I enjoy working with <span className="text-purple-400 font-semibold">React, Solidity, and smart contract development</span>, and I&apos;m continuously exploring new technologies like AI and Web3 to create impactful digital solutions.
               </p>
               <p className="text-lg text-gray-300 leading-relaxed">
                 My goal is to combine creativity and technical expertise to build products that make a difference.

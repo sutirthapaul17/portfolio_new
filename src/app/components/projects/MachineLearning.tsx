@@ -12,7 +12,7 @@ const MachineLearning: React.FC = () => {
         </p>
         <div className="text-6xl mb-6">🤖</div>
         <p className="text-gray-400">
-          I'm currently working on some exciting ML projects that will be added here soon.
+          I&apos;m currently working on some exciting ML projects that will be added here soon.
         </p>
       </div>
     </div>
